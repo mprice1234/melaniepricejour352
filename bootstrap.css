@@ -1,0 +1,34 @@
+h1{
+    font-family: 'Special Elite', cursive;
+    font-weight: 400;
+   
+}
+
+h2{
+    font-family: 'Special Elite', cursive;
+   
+}
+
+h3{
+    font-family: 'Special Elite', cursive;
+   
+}
+
+.navbar{
+    font-family: 'Special Elite', cursive;
+   
+}
+
+.button{
+    font-family: 'Special Elite', cursive;
+   
+}
+
+.row{
+    padding: 50px;
+}
+
+@media only screen and (max-width: 500px) {
+    h2 {padding-top: 50px;}
+    button {background-color: teal;}
+}
