@@ -1,0 +1,61 @@
+#content{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.masthead{
+    background-color:rgb(220, 220, 171);
+    padding: 20px;
+    text-align: center;
+    color: rgb(33, 143, 206);
+}
+
+.masthead h1{
+    font-size: 50px;
+}
+
+.headline{
+    font-family: helvetica, 'sans serif';
+    font-size: 25px;
+    padding-top: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    }
+
+#content p{
+    font-family: Georgia, serif;
+    font-size: 13px;
+}
+
+#NYT{
+    width: 700px;
+    height: 400px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+figcaption{
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 15px;
+    color: gray;
+    font-style: italic;
+}
+
+blockquote{
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(33, 143, 206);
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
