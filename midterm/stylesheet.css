@@ -1,0 +1,65 @@
+/*styling for body*/
+#content{
+   width: 900px;
+   margin: 0 auto;
+}
+
+h1{
+  font-size: 40px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+h2{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h3{
+    font-family: sans-serif;
+}
+
+#content p{
+    font-family: helvetica, arial, sans-serif;
+    font-size: 15px;
+}
+
+#sza6{
+    width: 900px;
+    height: 400px;
+}
+
+#sza1{
+  margin: 0 auto;
+  width: 900px;
+}
+
+
+
+#byline{
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+blockquote{
+    height: 300px;
+    width: 600px;
+    font-size: 40px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 70px;
+    font-family: georgia, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.banner{
+    justify-content: center;
+    display: flex;
+    height: 250px;
+    width: 450px;
+    margin: 0 auto;
+}
+
